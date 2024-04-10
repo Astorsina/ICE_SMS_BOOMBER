@@ -219,7 +219,7 @@ def tapsi(phone_number):
         sended.append(-1)
 
 # 005 divar
-def divar(phone_number):
+def divar(phone_number):09154355846
     try:
         phone_number = phone_number
         data = {"phone":phone_number}
