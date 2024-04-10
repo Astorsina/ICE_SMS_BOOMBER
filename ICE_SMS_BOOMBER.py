@@ -220,7 +220,7 @@ def tapsi(phone_number):
 
 # 005 divar
 def divar(phone_number):
-    try:
+    try:+989130616705
         phone_number = phone_number
         data = {"phone":phone_number}
         url = "https://api.divar.ir/v5/auth/authenticate"
